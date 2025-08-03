@@ -20,7 +20,7 @@ Descargar sistema:
 https://drive.google.com/drive/folders/1tAfOT6fbvR71OgotS75aYkRQpi6CU-cY?usp=sharing
 
 1. Instalación de dependencias del entorno:
-Desde la carpeta raíz del proyecto descargado, ejecuta el siguiente comando para instalar todas las dependencias necesarias especificadas en requirements.txt:
+Desde la carpeta raíz del proyecto descargado de drive, ejecuta el siguiente comando para instalar todas las dependencias necesarias especificadas en requirements.txt:
 
 ```bash
 pip install -r requirements.txt
