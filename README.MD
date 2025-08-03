@@ -11,7 +11,7 @@ La arquitectura del sistema está desarrollada en Python, con una interfaz web c
 - OpenCV
 - PyTorch
 
-## 🖥️ Capturas del sistema
+## 🖥️ Capturas de la interfaz principal del sistema
 ![Interfaz](static/interfaz.jpg)
 
 ## 🛠️ Cómo usar
