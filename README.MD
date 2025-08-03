@@ -23,7 +23,7 @@ https://drive.google.com/drive/folders/1tAfOT6fbvR71OgotS75aYkRQpi6CU-cY?usp=sha
 Desde la carpeta raíz del proyecto descargado, ejecuta el siguiente comando para instalar todas las dependencias necesarias especificadas en requirements.txt:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt```
 
 
 🔹 Se recomienda realizar esta instalación dentro de un entorno virtual (por ejemplo, venv) para evitar conflictos con otros entornos de desarrollo.
